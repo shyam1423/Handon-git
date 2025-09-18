@@ -1,2 +1,6 @@
 hi shyam how are you.
+<<<<<<< HEAD
 hello this is ravi.
+=======
+hi sai
+>>>>>>> 3e2128b6b9fb1aa32d4a2b2a2a68f39e684f47d3
